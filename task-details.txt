@@ -1,0 +1,37 @@
+-- hackerrank daily questions 10 days of javascript
+is ke bad problem solving then algorithm
+
+
+-- daily one mockup ( Responsive ) 4-6 hours
+   https://www.glideapps.com/
+
+
+
+-- javascript (make a slider with the using of swiper.js)
+
+
+
+-- border effect 
+-- position sticky and fixed 
+-- calc height and width 
+
+
+
+
+in javascript 
+-- array in loop 
+-- array k ander array + loop
+
+
+Mouckups --
+Glide Create app and website
+ Projector Create to captivate
+Safe Secuirty Workld 2021
+Landing Page React
+Home Sherly Website
+University Template
+Haier Saloon barber Website
+Red Store Ecommerce
+Xypo The business
+No-Code-cofe 2021 webflow
+ 
